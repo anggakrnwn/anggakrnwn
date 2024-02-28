@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at Amikom University Purwokerto**
 
-- 👨‍💻 Currently learningle at [MERN, Python](MERN, Python)
+- 👨‍💻 Currently learning [MERN, Python]
 
 - 📝 I regularly write articles on [https://medium.com/@aakurniawan1306](https://medium.com/@aakurniawan1306)
 
