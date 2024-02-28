@@ -1,13 +1,11 @@
 <h1 align="center">Hi 🪴, I'm Angga Kurniawan</h1>
 <h3 align="center">A passionate Software Engineering from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anggakrnwn&label=Profile%20views&color=0e75b6&style=flat" alt="anggakrnwn" /> </p>
-
 - 🌱 I’m currently learning **Software Engineering at Amikom University Purwokerto**
 
-- 👨‍💻 Currently learning [MERN, Python]
+- 👨‍💻 Currently learning `MERN`, `Python`
 
-- 📝 I regularly write articles on @aakurniawan1306
+- 📝 I regularly write articles on [Medium.com](https://medium.com/@aakurniawan1306)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
