@@ -1,5 +1,4 @@
 <h1 align="center">Hi 🪴, I'm Angga Kurniawan</h1>
-<h3 align="center">A passionate Software Engineering from Indonesia</h3>
 
 - 🌱 I’m currently learning **Software Engineering at Amikom University Purwokerto**
 
