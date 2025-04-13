@@ -2,7 +2,7 @@
 
 ### Who am I
 - `Informatics Student` at `Amikom University Purwokerto`
-- 👨‍💻 Currently learning `MERN`
+- 👨‍💻 Currently learning `Backend Development` with `Golang`
 - Interested in `software engineering`, `data engineering`
 
 ### How to reach me
