@@ -2,7 +2,7 @@
 
 ### Who am I
 - `Informatics Student` at `Amikom University Purwokerto`
-- 👨‍💻 Currently learning `Backend Development` with `Golang`
+- 👨‍💻 Currently learning `Backend Development`
 - Interested in `software engineering`, `data engineering`
 
 ### How to reach me
