@@ -14,7 +14,7 @@
 
 ### 📫 How to reach me
 
-<a href="https://www.linkedin.com/in/angga-krnwn13" target="blank">
+<a href="https://www.linkedin.com/in/anggakrnwn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/angga.krnwn" target="blank">
