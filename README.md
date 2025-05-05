@@ -1,9 +1,9 @@
 ## 🪴 Angga Kurniawan
 
 ### 👋 Who am I
-- 🎓 Informatics student at **Amikom University Purwokerto**
-- 👨‍💻 Currently learning **Backend Development**
-- 💡 Interested in **Software Engineering** and **Data Engineering**
+- Informatics student at **Amikom University Purwokerto**
+- Currently learning **Backend Development**
+- Interested in **Software Engineering** and **Data Engineering**
 
 ## 📊 My Stats
 
