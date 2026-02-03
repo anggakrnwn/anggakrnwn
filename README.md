@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anggakrnwn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-anggakrnwn-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/anggakrnwn/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@anggakrnwn" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-@anggakrnwn-black?style=flat&logo=medium" />
+  <a href="https://medium.com/@anggakrnwn">
+    <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white"/>
   </a>
 </p>
